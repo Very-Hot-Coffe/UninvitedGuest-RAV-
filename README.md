@@ -2,8 +2,8 @@
 RAV - Remote access virus
 
 ### Linqs
-* [Requests][https://github.com/Very-Hot-Coffe/UninvitedGuest-RAV-#request-types]
-* [Answers][https://github.com/Very-Hot-Coffe/UninvitedGuest-RAV-#answer-types]
+* [Requests]https://github.com/Very-Hot-Coffe/UninvitedGuest-RAV-#request-types
+* [Answers]https://github.com/Very-Hot-Coffe/UninvitedGuest-RAV-#answer-types
 
 ## Protocol connection ##
 
