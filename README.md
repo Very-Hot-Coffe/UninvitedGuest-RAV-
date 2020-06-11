@@ -1,4 +1,4 @@
-# UninvitedGuest-RAV-
+# UninvitedGuest-RAV
 RAV - Remote access virus
 
 ## Protocol connection ##
@@ -10,3 +10,15 @@ All packages  build to this structure:
 3. to 9999999999 (10 sumbols) bytes or ~900 mb  - data from request
 
 request exemple RTF0000000044C:\\config.txt 
+
+### Request types
+1. RTF - read file text in file 
+    data : C:\\Config.txt
+2. WTF - Write text file
+    data: C:\\Config.txt\nblablabla
+
+### Answer types
+1. TXT - text (usually server answer return string)
+    data : some text...
+2. ERR - error
+    data : Ooops
