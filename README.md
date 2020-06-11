@@ -15,7 +15,7 @@ request exemple RTF0000000044C:\\config.txt
 1. RTF - read file text in file 
     data : C:\\Config.txt
 2. WTF - Write text file
-    data: C:\\Config.txt\nblablabla
+    data: C:\\Config.txt**\n**blablabla
 
 ### Answer types
 1. TXT - text (usually server answer return string)
